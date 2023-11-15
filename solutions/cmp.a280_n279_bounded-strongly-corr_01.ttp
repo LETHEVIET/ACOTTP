@@ -13,38 +13,34 @@ Ants.alpha		 1.0
 Ants.beta		 2.0
 Ants.rho		 0.5
 Ants.q_0		 0.0
-Ants.elitist_ants	 100
-Ants.ras_ranks		 6
 LocalSearch.ls_flag	 3
 LocalSearch.nn_ls	 20
 LocalSearch.dlb_flag	 true
-Ants.as_flag		 false
-Ants.eAnts.as_flag	 false
-rAnts.as_flag		 false
 mmAnts.as_flag		 true
-Ants.bwAnts.as_flag	 false
-Ants.acs_flag		 false
 AcoTsp.boosting		 false
 
 
 begin problem instances/a280_n279_bounded-strongly-corr_01.ttp
 Utilities.seed -1618462292
 begin try 0
-best -17422.400796552884	 iteration 1	 tours 27	 time 0.532
-best -17758.258254254113	 iteration 2	 tours 52	 time 1.014
-best -17854.11832372804	 iteration 7	 tours 177	 time 2.44
-best -17895.480362096954	 iteration 9	 tours 227	 time 2.876
-best -17993.357249265286	 iteration 14	 tours 352	 time 3.71
-best -18049.11884958809	 iteration 15	 tours 377	 time 3.888
-best -18190.30102622448	 iteration 23	 tours 577	 time 5.135
-best -18193.049180338912	 iteration 85	 tours 2127	 time 15.552
-best -18206.8359087672	 iteration 104	 tours 2602	 time 18.019
-best -18223.54833595508	 iteration 178	 tours 4452	 time 27.458
-best -18286.6721823129	 iteration 298	 tours 7452	 time 41.181
-best -18289.75272341467	 iteration 470	 tours 11752	 time 63.768
-best -18290.00704432309	 iteration 544	 tours 13602	 time 77.058
-best -18309.99353911649	 iteration 601	 tours 15027	 time 86.502
-best -18313.65885175598	 iteration 787	 tours 19677	 time 123.138
+best -17422.400796552884	 iteration 1	 tours 27	 time 0.657
+best -17758.258254254113	 iteration 2	 tours 52	 time 1.156
+best -17854.11832372804	 iteration 7	 tours 177	 time 2.771
+best -17895.480362096954	 iteration 9	 tours 227	 time 3.3
+best -17993.357249265286	 iteration 14	 tours 352	 time 4.133
+best -18049.11884958809	 iteration 15	 tours 377	 time 4.311
+best -18190.30102622448	 iteration 23	 tours 577	 time 5.675
+best -18193.049180338912	 iteration 85	 tours 2127	 time 15.611
+best -18206.8359087672	 iteration 104	 tours 2602	 time 19.142
+best -18223.54833595508	 iteration 178	 tours 4452	 time 28.62
+best -18286.6721823129	 iteration 298	 tours 7452	 time 42.101
+best -18289.75272341467	 iteration 470	 tours 11752	 time 61.351
+best -18290.00704432309	 iteration 544	 tours 13602	 time 69.586
+best -18309.99353911649	 iteration 601	 tours 15027	 time 75.995
+best -18313.65885175598	 iteration 787	 tours 19677	 time 97.298
+best -18337.432785302466	 iteration 1070	 tours 26752	 time 129.328
+best -18361.579718067598	 iteration 1393	 tours 34827	 time 166.531
+best -18440.006453031678	 iteration 1435	 tours 35877	 time 171.295
 end try 0
 
 end problem a280_n279_bounded-strongly-corr_01.ttp

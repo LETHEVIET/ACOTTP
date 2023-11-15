@@ -12,26 +12,19 @@ Ants.alpha		 1.0
 Ants.beta		 2.0
 Ants.rho		 0.5
 Ants.q_0		 0.0
-Ants.elitist_ants	 100
-Ants.ras_ranks		 6
 LocalSearch.ls_flag	 3
 LocalSearch.nn_ls	 20
 LocalSearch.dlb_flag	 true
-Ants.as_flag		 false
-Ants.eAnts.as_flag	 false
-rAnts.as_flag		 false
 mmAnts.as_flag		 true
-Ants.bwAnts.as_flag	 false
-Ants.acs_flag		 false
 AcoTsp.boosting		 false
 
 
-Best: -18313.65885175598	 Iterations: 787	 B-Fac 9.0	 Time 123.138	 Tot.time 175.038
+Best: -18440.006453031678	 Iterations: 1435	 B-Fac 9.0	 Time 171.295	 Tot.time 180.006
 
-Average-Best: -18313.65885175598	 Average-Iterations: 787.0
+Average-Best: -18440.006453031678	 Average-Iterations: 1435.0
 Stddev-Best: 0.0 	 Stddev Iterations: 0.0
-Best try: -18313.65885175598		 Worst try: -18313.65885175598
+Best try: -18440.006453031678		 Worst try: -18440.006453031678
 
-Avg.time-best: 123.138 stddev.time-best: 0.0
+Avg.time-best: 171.295 stddev.time-best: 0.0
 
-Avg.time-Ants.total: 175.081 stddev.time-Ants.total: 0.0
+Avg.time-Ants.total: 180.019 stddev.time-Ants.total: 0.0
