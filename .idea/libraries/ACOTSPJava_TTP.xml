@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ACOTSPJava-TTP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ACOTSPJava-TTP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

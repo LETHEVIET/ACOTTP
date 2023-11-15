@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-cli-1.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-lang3-3.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/org-netbeans-modules-java-j2seproject-copylibstask.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-cli-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/TTP-forDistribution-GECCO2015article.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-lang3-3.4-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
